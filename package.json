@@ -1,0 +1,23 @@
+{
+  "name": "norepeatsplease",
+  "version": "1.0.0",
+  "description": "No repeats please (FCC)",
+  "main": "no-repeats.js",
+  "scripts": {
+    "test": "mocha "
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LionRoar/noRepeatsPlease.git"
+  },
+  "author": "LionRoar",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LionRoar/noRepeatsPlease.git/issues"
+  },
+  "homepage": "https://github.com/LionRoar/noRepeatsPlease.git#readme",
+  "dependencies": {
+    "chai": "^4.1.2",
+    "mocha": "^4.1.0"
+  }
+}
